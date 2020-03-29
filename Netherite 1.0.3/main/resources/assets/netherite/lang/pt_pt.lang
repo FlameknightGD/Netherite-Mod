@@ -1,0 +1,20 @@
+//Blocks
+tile.ancient_debris.name=Detritos ancestrais
+tile.netherite_block.name=Bloco de netherite
+
+//Items
+item.netherite_ingot.name=Lingote de netherite
+item.netherite_scrap.name=Fragmento de netherite
+
+//Tools
+item.netherite_sword.name=Espada de netherite
+item.netherite_shovel.name=Pá de netherite
+item.netherite_pickaxe.name=Picareta de netherite
+item.netherite_hoe.name=Enxada de netherite
+item.netherite_axe.name=Machado de netherite
+
+//Armor
+item.netherite_helmet.name=Capacete de netherite
+item.netherite_chestplate.name=Peitoral de netherite
+item.netherite_leggings.name=Perneiras de netherite
+item.netherite_boots.name=Botas de netherite

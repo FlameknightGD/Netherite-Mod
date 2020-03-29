@@ -1,0 +1,20 @@
+//Blocks
+tile.ancient_debris.name=Sinaunang Labi
+tile.netherite_block.name=Bloke ng Netherite
+
+//Items
+item.netherite_ingot.name=Netherite
+item.netherite_scrap.name=Scrap ng Netherite
+
+//Tools
+item.netherite_sword.name=Espadang Netherite
+item.netherite_shovel.name=Palang Netherite
+item.netherite_pickaxe.name=Palakong Netherite
+item.netherite_hoe.name=Asadang Netherite
+item.netherite_axe.name=Pikong Netherite
+
+//Armor
+item.netherite_helmet.name=Kupyang Netherite
+item.netherite_chestplate.name=Baluting Netherite
+item.netherite_leggings.name=Pulinasang Netherite
+item.netherite_boots.name=Botang Netherite

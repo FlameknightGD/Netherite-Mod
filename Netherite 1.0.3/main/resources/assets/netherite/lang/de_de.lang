@@ -1,0 +1,20 @@
+//Blocks
+tile.ancient_debris.name=Antiker Schutt
+tile.netherite_block.name=Netheritblock
+
+//Items
+item.netherite_ingot.name=Netheritbarren
+item.netherite_scrap.name=Netheritbrocken
+
+//Tools
+item.netherite_sword.name=Netheritschwert
+item.netherite_shovel.name=Netheritschaufel
+item.netherite_pickaxe.name=Netheritspitzhacke
+item.netherite_hoe.name=Netherithacke
+item.netherite_axe.name=Netheritaxt
+
+//Armor
+item.netherite_helmet.name=Netherithelm
+item.netherite_chestplate.name=Netheritharnisch
+item.netherite_leggings.name=Netheritbeinschutz
+item.netherite_boots.name=Netheritstiefel
