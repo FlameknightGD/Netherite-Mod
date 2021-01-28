@@ -1,0 +1,20 @@
+//Blocks
+tile.ancient_debris.name=Pradawny gruz
+tile.netherite_block.name=Blok netherytu
+
+//Items
+item.netherite_ingot.name=Sztabka netherytu
+item.netherite_scrap.name=Odłamek netherytu
+
+//Tools
+item.netherite_sword.name=Netherytowy miecz
+item.netherite_shovel.name=Netherytowy łopata
+item.netherite_pickaxe.name=Netherytowy kilof
+item.netherite_hoe.name=Netherytowy motyka
+item.netherite_axe.name=Netherytowy siekiera
+
+//Armor
+item.netherite_helmet.name=Netherytowy hełm
+item.netherite_chestplate.name=Netherytowy napierśnik
+item.netherite_leggings.name=Netherytowy nogawice
+item.netherite_boots.name=Netherytowy buty
