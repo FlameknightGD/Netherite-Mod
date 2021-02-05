@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NNN",
+        "NNN",
+        "NNN"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "netherite:netherite_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "netherite:netherite_block",
+        "count": 1
+    }
+}
