@@ -1,0 +1,20 @@
+//Blocks
+tile.ancient_debris.name=Ősi törmelék
+tile.netherite_block.name=Netheritblokk
+
+//Items
+item.netherite_ingot.name=Netheritrúd
+item.netherite_scrap.name=Netheritdarab
+
+//Tools
+item.netherite_sword.name=Netheritkard
+item.netherite_shovel.name=Netheritásó
+item.netherite_pickaxe.name=Netheritcsákány
+item.netherite_hoe.name=Netheritkapa
+item.netherite_axe.name=Netheritfejsze
+
+//Armor
+item.netherite_helmet.name=Netheritsisak
+item.netherite_chestplate.name=Netherit mellvért
+item.netherite_leggings.name=Netherit lábszárvédő
+item.netherite_boots.name=Netheritcsizma
