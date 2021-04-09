@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": 
+  [
+    
+  {
+      "item": "minecraft:diamond_pickaxe"
+  },
+   
+  {
+      "type": "forge:ore_dict",
+      "ore": "ingotNetherite"
+  }
+  
+  ],
+  "result": 
+  {
+    "item": "netherite:netherite_pickaxe",
+    "count": 1
+  }
+}
