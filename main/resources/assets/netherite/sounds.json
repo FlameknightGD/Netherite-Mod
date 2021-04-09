@@ -1,8 +1,0 @@
-{
-    "blocks.ancient_debris":
-    {
-        "category": "blocks",
-        "subtitle": "blocks.ancient_debris",
-        "sounds": [{ "name": "netherite:blocks/ancient_debris", "stream": true}]
-    }
-}
