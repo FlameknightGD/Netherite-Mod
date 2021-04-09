@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": 
+  [
+    
+  {
+      "item": "minecraft:diamond_helmet"
+  },
+   
+  {
+      "item": "netherite:netherite_ingot"
+  }
+  
+  ],
+  "result": 
+  {
+    "item": "netherite:netherite_helmet",
+    "count": 1
+  }
+}
