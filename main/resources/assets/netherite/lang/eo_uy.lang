@@ -1,0 +1,19 @@
+//Blocks
+tile.ancient_debris.name=Antikva rubo
+tile.netherite_block.name=Inferita bloko
+
+//Items
+item.netherite_ingot.name=Inferita ingoto
+item.netherite_scrap.name=Inferita fragmento
+
+//Tools
+item.netherite_sword.name=Inferita glavo
+item.netherite_shovel.name=Inferita fosilo
+item.netherite_pickaxe.name=Inferita pioĉo
+item.netherite_hoe.name=Inferita sarkilo
+item.netherite_axe.name=Inferita hakilo
+//Armor
+item.netherite_helmet.name=Inferita kasko
+item.netherite_chestplate.name=Inferita kiraso
+item.netherite_leggings.name=Inferita pantalono
+item.netherite_boots.name=Inferitaj botoj
