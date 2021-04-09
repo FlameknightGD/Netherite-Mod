@@ -1,0 +1,20 @@
+//Blocks
+tile.ancient_debris.name=Oider Schutt
+tile.netherite_block.name=Netheritblock
+
+//Items
+item.netherite_ingot.name=Netheritborrn
+item.netherite_scrap.name=Netheritbrockn
+
+//Tools
+item.netherite_sword.name=Netheritschwert
+item.netherite_shovel.name=Netheritschaufe
+item.netherite_pickaxe.name=Netheritspitzhock
+item.netherite_hoe.name=Netherithock
+item.netherite_axe.name=Netheritoxt
+
+//Armor
+item.netherite_helmet.name=Netherithöm
+item.netherite_chestplate.name=Netheritbrustplottn
+item.netherite_leggings.name=Netherithaxnschutz
+item.netherite_boots.name=Netheritstiefe
