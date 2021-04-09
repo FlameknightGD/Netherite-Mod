@@ -1,0 +1,20 @@
+//Blocks
+tile.ancient_debris.name=Древние обломки
+tile.netherite_block.name=Незеритовый блок
+
+//Items
+item.netherite_ingot.name=Незеритовый слиток
+item.netherite_scrap.name=Незеритовый лом
+
+//Tools
+item.netherite_sword.name=Незеритовый меч
+item.netherite_shovel.name=Незеритовый лопата
+item.netherite_pickaxe.name=Незеритовый кирка
+item.netherite_hoe.name=Незеритовый мотыга
+item.netherite_axe.name=Незеритовый топор
+
+//Armor
+item.netherite_helmet.name=Незеритовый шлем
+item.netherite_chestplate.name=Незеритовый нагрудник
+item.netherite_leggings.name=Незеритовый поножи
+item.netherite_boots.name=Незеритовый ботинки

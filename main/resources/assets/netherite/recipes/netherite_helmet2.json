@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": 
+  [
+    
+  {
+      "item": "minecraft:diamond_helmet"
+  },
+   
+  {
+      "type": "forge:ore_dict",
+      "ore": "ingotNetherite"
+  }
+  
+  ],
+  "result": 
+  {
+    "item": "netherite:netherite_helmet",
+    "count": 1
+  }
+}
