@@ -1,0 +1,20 @@
+//Blocks
+tile.ancient_debris.name=Oud puin
+tile.netherite_block.name=Netherietblok
+
+//Items
+item.netherite_ingot.name=Netherietstaaf
+item.netherite_scrap.name=Netherietschroot
+
+//Tools
+item.netherite_sword.name=Netherieten zwaard
+item.netherite_shovel.name=Netherieten schep
+item.netherite_pickaxe.name=Netherieten houweel
+item.netherite_hoe.name=Netherieten schoffel
+item.netherite_axe.name=Netherieten bijl
+
+//Armor
+item.netherite_helmet.name=Netherieten helm
+item.netherite_chestplate.name=Netherieten borstplaat
+item.netherite_leggings.name=Netherieten beenstukken
+item.netherite_boots.name=Netherieten laarzen
