@@ -6,3 +6,6 @@ This is a repository with the source code of my Minecraft mod "Netherite Mod", w
 - Netherite block, as well as tool and armor set
 - Entry into the forge Ore Dictionary
 - Support for 27 different languages in Minecraft
+
+## Credits
+The Textures of this mod are made by Mojang
